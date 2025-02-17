@@ -22,7 +22,7 @@ Learn best practices in AI model development, deployment, and scaling.
 │── 📂 04_Projects/             #Hands-on AI projects  
 │── 📂 Resources/               #PDFs, research papers & references  
 │── 📂 Assignments/             #Practice exercises & solutions  
-│── 📂 Deployment/              #AI model deployment strategies (Docker, FastAPI,  
+│── 📂 Deployment/              # AI model deployment strategies (Docker, FastAPI, Streamlit)  
 
 ## 📚 Essential Python Libraries
 
